@@ -37,8 +37,8 @@ Como este repositório ignora arquivos de configuração sensíveis e ambientes 
 
 ### 1. Clonar o Repositório
 ```bash
-git clone <URL_DO_REPO>
-cd <NOME_DA_PASTA>
+git clone https://github.com/ferrgabe/Desafio-QA-Bridge.git
+cd Desafio_QA_Bridge
 ```
 
 ### 2. Criar e Ativar o Ambiente Virtual
