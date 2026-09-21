@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Teste sempre positivo",
+    "success": true,
+    "duration": 0.0,
+    "message": ""
+  },
+  {
+    "name": "API Health Check",
+    "success": true,
+    "duration": 0.82,
+    "message": ""
+  },
+  {
+    "name": "Filling do princ\u00edpio ativo",
+    "success": true,
+    "duration": 15.42,
+    "message": ""
+  },
+  {
+    "name": "Campos vazios",
+    "success": true,
+    "duration": 9.92,
+    "message": ""
+  },
+  {
+    "name": "Nome com hifen",
+    "success": true,
+    "duration": 10.14,
+    "message": ""
+  },
+  {
+    "name": "Per\u00edodo da dose fracionado",
+    "success": true,
+    "duration": 9.63,
+    "message": ""
+  }
+]
